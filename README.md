@@ -1,12 +1,12 @@
 # CS-305-H7002-Software-Security-23EW2
-CS 305 Module Eight Journal
-Chris Marrs
-12/13/2023
+CS 305 Module Eight Journal  
+Chris Marrs  
+12/13/2023  
 
-### Journal Entry: Software Security Enhancement Project at Global Rain
+### Journal Entry: Software Security Enhancement Project at Global Rain  
 
-### Project Overview
-As a developer at Global Rain, I worked with our client, Artemis Financial, a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement, investments, and insurance.
+### Project Overview  
+As a developer at Global Rain, I worked with our client, Artemis Financial, a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement, investments, and insurance.  
 
 I was able to conduct a vulnerability assessment of Artemis Financials’ current software. I identified several areas where security could be enhanced, particularly in data encryption and secure communications. 
 
